@@ -8403,10 +8403,12 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #ac4142;
+      color: #fff;
       padding-top: 1rem;
       padding-bottom: 1rem;
       font-size: 30px; }
+    .ftco-navbar-light.scrolled .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+      color: #ac4142 !important; }
 
 .navbar-brand {
   font-weight: 900;
