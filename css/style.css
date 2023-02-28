@@ -8455,14 +8455,14 @@ h1, h2, h3, h4, h5,
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.1rem;
-  width: 3.1rem;
+  height: 3.0rem;
+  width: 3.0rem;
   background-color: #fff;
   color: #444444;
-  border-radius: 100%;
-  font-size: 1.5rem;
-  margin-right: 1.5rem;
-  margin-top: 2em;
+  border-radius: 80%;
+  font-size: 1.4rem;
+  margin-right: 1.4rem;
+  margin-top: 1.4em;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
