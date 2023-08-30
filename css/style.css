@@ -151,9 +151,9 @@ a:not([href]):not([tabindex]) {
 
 a.refalt {color:inherit;}
 a.refalt:link {text-decoration: none; color: inherit;}
-a.refalt:visited {text-decoration: none; color: #d4d4d4;}
-a.refalt:hover {text-decoration: none; color: #d4d4d4;}
-a.refalt:active {text-decoration: none; color: #d4d4d4;}
+a.refalt:visited {text-decoration: none; color: #eeeff2;}
+a.refalt:hover {text-decoration: none; color: #55aaff;}
+a.refalt:active {text-decoration: none; color: #eeeff2;}
 
 pre,
 code,
