@@ -149,6 +149,12 @@ a:not([href]):not([tabindex]) {
   a:not([href]):not([tabindex]):focus {
     outline: 0; }
 
+a.refalt {color:inherit;}
+a.refalt:link {text-decoration: none; color: inherit;}
+a.refalt:visited {text-decoration: none; color: #d4d4d4;}
+a.refalt:hover {text-decoration: none; color: #d4d4d4;}
+a.refalt:active {text-decoration: none; color: #d4d4d4;}
+
 pre,
 code,
 kbd,
