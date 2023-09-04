@@ -8504,7 +8504,7 @@ h1, h2, h3, h4, h5,
 .social-icons .acad-icon:hover {
   background-color: #ac4142;
   color:#fff;
-  transform:scale(1.01);
+  transform:scale(1.0);
   overflow: visible;
   display: inline-flex;
 }
