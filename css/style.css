@@ -8484,6 +8484,30 @@ h1, h2, h3, h4, h5,
   overflow: visible;
   display: inline-flex;
 }
+.social-icons .acad-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.0rem;
+  width: 3.0rem;
+  background-color: #fff;
+  color: #444444;
+  border-radius: 80%;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-right: 1.4rem;
+  margin-top: 1.4em;
+}
+.social-icons .acad-icon:last-child {
+  margin-right: 0;
+}
+.social-icons .acad-icon:hover {
+  background-color: #ac4142;
+  color:#fff;
+  transform:scale(1.01);
+  overflow: visible;
+  display: inline-flex;
+}
 .owl-carousel {
   position: relative; }
   .owl-carousel .owl-item {
