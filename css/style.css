@@ -8057,10 +8057,11 @@ a.text-dark:hover, a.text-dark:focus {
   color: #121416 !important; }
 
 .text-pub {
-  color: #fff !important;}
+  color: #cfcfcf !important;}
 
 a.text-pub:hover, a.text-pub:focus {
-  color: #ac4142 !important; }
+  transform:scale(1.125) !important;
+  color: #ffffff !important;}
 
 .ico-pub {
   color: #fff !important;
